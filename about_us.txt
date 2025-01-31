@@ -1,0 +1,28 @@
+===========================================
+           GR TOOLKIT v1.0  
+    Penetration Testing & Security Toolkit
+===========================================
+
+🔹 Created By: GH0ST R1D3R  
+🔹 Contact: @GH0ST_R1D3R6666 (Telegram)  
+🔹 Telegram Channel: https://t.me/fsociety_reborn  
+
+🚀 About GR TOOLKIT:  
+GR TOOLKIT is an **advanced penetration testing** and **security assessment** tool designed for **ethical hackers, cybersecurity professionals, and bug bounty hunters**. It includes multiple tools for **network, web, and system security testing** to help identify vulnerabilities and secure systems.  
+
+⚡ Features:  
+✔️ Port Scanning  
+✔️ Vulnerability Scanning  
+✔️ SQL Injection Testing  
+✔️ DDoS Simulation  
+✔️ Reverse Shell Creation  
+✔️ System Information Gathering  
+
+🎯 Legal Disclaimer:  
+GR TOOLKIT is for **educational and ethical hacking purposes only**. Misuse of this tool for **illegal activities** is strictly prohibited. The developer is **not responsible for any misuse**. Use it only on **authorized systems and legal security assessments**.  
+
+🔗 Stay Updated:  
+For updates and new features, join our **Telegram Channel**:  
+https://t.me/fsociety_reborn  
+
+===========================================
